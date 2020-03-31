@@ -6,6 +6,10 @@ Visualizza tutti i venerdì' 17 tra due date, di default è a 1 anno di distanza
 
 ![screens](https://user-images.githubusercontent.com/583775/78041371-e264a700-7370-11ea-9025-50bbe172dadd.JPG)
 
+# Download
+
+[Donwload](https://github.com/theking0/venerdi17/releases/download/1.0/venerdi17.exe) (Windows executable)
+
 # Donation
 
 [![paypal](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VRR5MDB7JQZFE&currency_code=EUR&source=url)
